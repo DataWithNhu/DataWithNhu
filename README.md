@@ -34,4 +34,4 @@
 - 🛠️ Collaborations at [Gmail](pnhu8556@gmail.com)
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/your-profile-name)
 - 🚀 Check out my projects on [GitHub](https://github.com/DataWithNhu)
-- 🧗 Beyond the Screen: Work-Life Balance = Gym 💪 + City Walks × ☀️ +  Good Food 🍜🌿🥩
+- 🧗 Beyond the Screen: Gym 💪 + City Walks ☀️ +  Good Food 🍜🌿🥩
