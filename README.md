@@ -16,10 +16,10 @@
 - 🚀 I enjoy building dashboards, automating reporting, and making metrics feel less scary.
 
 ### What I Like Working On
-- **Growth analytics** and campaign measurement
-- **Product and customer** behavior analysis
-- **Dashboarding** and KPI design
-- **Retention, conversion, and funnel** analysis
+- 🌱 **Growth analytics** and campaign measurement
+- 📦 **Product and customer** behavior analysis
+- 🎯 **Dashboarding** and KPI design
+- 🧲 **Retention, conversion, and funnel** analysis
 
 ### Tools I Use
 - 🛠 **Languages:** SQL, Python
