@@ -28,7 +28,8 @@
 - ☁️ **Cloud:** AWS, GCP
 
 ### Experience
-- 🌱 **Data Analyst Engineer** - 📈 **Data Analyst**
+- 📈 **Data Analyst** @Balenciaga
+- 🌱 **Data Analyst Engineer** @papernest
 
 ---
   
