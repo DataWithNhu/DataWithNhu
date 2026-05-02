@@ -12,7 +12,6 @@
 ### My Data Journey
 - 🧾 I love turning raw data into answers people can actually use.
 - 🔎 I work with SQL, Python, and BI tools to analyze performance, spot trends, and support decisions.
-- 📈 My sweet spot is product, growth, customer, and marketing analytics.
 - 🚀 I enjoy building dashboards, automating reporting, and making metrics feel less scary.
 
 ### What I Like Working On
@@ -34,7 +33,7 @@
 ---
   
 ### Let’s Connect
-- 🛠️ Feel free to reach out for collaborations, discussions, or even a casual chat about the latest in data science at [pnhu8556@gmail.com]
+- 🛠️ Collaborations at [Gmail](pnhu8556@gmail.com)
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/your-profile-name)
 - 🚀 Check out my projects on [GitHub](https://github.com/DataWithNhu)
 - 🧗 Beyond the Screen: Work-Life Balance = Gym 💪 + City Walks × ☀️ +  Good Food 🍜🌿🥩
