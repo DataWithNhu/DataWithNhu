@@ -4,8 +4,6 @@
 - 📊 Data analyst who enjoys finding the story behind the numbers.
 - 🧠 I like SQL, Python, dashboards, and a good business problem.
 - ✨ I turn data chaos into simple, useful insights.
-- 🌍 Curious about product, growth, and marketing analytics.
-- ☕ Powered by growth, curiosity, and balance.
 
 
 
