@@ -30,14 +30,10 @@
 ### Experience
 - 🌱 **Data Analyst Engineer** - 📈 **Data Analyst**
 
-### Fun Side of Me
-- I believe good analysis should answer a question, not just make a chart.
-- I enjoy making data sound human!
+---
+  
 ### Let’s Connect
-- LinkedIn: www.linkedin.com/in/phamngoctunhu
-- Email: pnhu8556@gmail.com
-- Portfolio: YOUR_PORTFOLIO_URL
-
-    </td>
-  </tr>
-</table>
+- 🛠️ Feel free to reach out for collaborations, discussions, or even a casual chat about the latest in data science at [pnhu8556@gmail.com]
+- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/your-profile-name)
+- 🚀 Check out my projects on [GitHub](https://github.com/DataWithNhu)
+- 🧗 Beyond the Screen: work-life balance: `Life = (Gym × 💪) + (City Walks × ☀️) + (Good Food × 🍜🌿🥩)`
