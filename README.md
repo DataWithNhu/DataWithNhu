@@ -7,7 +7,7 @@
 - 🌍 Curious about product, growth, and marketing analytics.
 - ☕ Powered by growth, curiosity, and balance.
 
----
+
 
 ### My Data Journey
 - 🧾 I love turning raw data into answers people can actually use.
@@ -30,7 +30,7 @@
 - 📈 **Data Analyst** @Balenciaga
 - 🌱 **Data Analyst Engineer** @papernest
 
----
+
   
 ### Let’s Connect
 - 🛠️ Collaborations at [Gmail](pnhu8556@gmail.com)
